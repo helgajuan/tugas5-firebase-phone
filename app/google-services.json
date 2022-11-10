@@ -1,0 +1,47 @@
+  {
+  "project_info": {
+    "project_number": "80508992675",
+    "project_id": "fir-phone-ffa0b",
+    "storage_bucket": "fir-phone-ffa0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80508992675:android:a298fbd136db8eabf09316",
+        "android_client_info": {
+          "package_name": "com.example.firebasephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80508992675-rkd679g4r6pmcgbk5hvaet9cvpfq62o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasephone",
+            "certificate_hash": "07e0a290789779b64f074411c486b6345c665689"
+          }
+        },
+        {
+          "client_id": "80508992675-dsgj4cgebneecib11ml1uo7c9g0d6leg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIMaUNja9BI-HlnfTxtWaBeMwtm2BqWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80508992675-dsgj4cgebneecib11ml1uo7c9g0d6leg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
